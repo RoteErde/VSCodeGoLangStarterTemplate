@@ -1,9 +1,13 @@
 Install Go extension from Lukehoban
 
-add this in VS Code preference
+add this in VS Code preference:
+
    "git.enableSmartCommit": true,
+
     "go.vetOnSave": "package",
+
     "go.buildOnSave": "package"
+    
 
 
 *Hit F1 
